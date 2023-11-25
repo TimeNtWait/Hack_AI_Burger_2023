@@ -14,6 +14,7 @@ https://hacks-ai.ru/hackathons.html?eventId=969092
 Решение представляет набор юпитер-блокнотов:
 - **[gen_features.ipynb](gen_features.ipynb)** - генерация агрегированных фичей по посещениям, любимым блюдам и прочее
 - **[visited_client.ipynb](visited_client.ipynb)** - генерация фичей на основе паттернов посещения
+- **[pattern_individ_visited_client.ipynb](pattern_individ_visited_client.ipynb)** - генерация фичей на основе паттернов индивидуальных посещения по выходным дням
 - **[baseline_v8.ipynb](baseline_v8.ipynb)** - модель классификации и регрессии
   
 Для решения задачи произведена группировка видов товаров, которая представлена в файле **[Menu.xlsx](Menu.xlsx)**
