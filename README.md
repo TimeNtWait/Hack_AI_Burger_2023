@@ -19,4 +19,5 @@ https://hacks-ai.ru/hackathons.html?eventId=969092
   
 Для решения задачи произведена группировка видов товаров, которая представлена в файле **[Menu.xlsx](Menu.xlsx)**
 
-
+Для работы с решением требуется выполнить команду:
+- ```pip install -r requirements.txt```
